@@ -1,0 +1,152 @@
+[
+    {
+        "team": "Los Angeles Angels",
+        "team_id": 108,
+        "avg_wpa": 270.55068493150685
+    },
+    {
+        "team": "Arizona Diamondbacks",
+        "team_id": 109,
+        "avg_wpa": 272.5164383561644
+    },
+    {
+        "team": "Baltimore Orioles",
+        "team_id": 110,
+        "avg_wpa": 242.45616438356168
+    },
+    {
+        "team": "Boston Red Sox",
+        "team_id": 111,
+        "avg_wpa": 278.6592105263157
+    },
+    {
+        "team": "Chicago Cubs",
+        "team_id": 112,
+        "avg_wpa": 255.31095890410964
+    },
+    {
+        "team": "Cincinnati Reds",
+        "team_id": 113,
+        "avg_wpa": 238.63243243243247
+    },
+    {
+        "team": "Cleveland Guardians",
+        "team_id": 114,
+        "avg_wpa": 250.47916666666666
+    },
+    {
+        "team": "Colorado Rockies",
+        "team_id": 115,
+        "avg_wpa": 249.0770270270271
+    },
+    {
+        "team": "Detroit Tigers",
+        "team_id": 116,
+        "avg_wpa": 242.7
+    },
+    {
+        "team": "Houston Astros",
+        "team_id": 117,
+        "avg_wpa": 238.36486486486493
+    },
+    {
+        "team": "Kansas City Royals",
+        "team_id": 118,
+        "avg_wpa": 254.41756756756763
+    },
+    {
+        "team": "Los Angeles Dodgers",
+        "team_id": 119,
+        "avg_wpa": 265.0
+    },
+    {
+        "team": "Washington Nationals",
+        "team_id": 120,
+        "avg_wpa": 244.18378378378375
+    },
+    {
+        "team": "New York Mets",
+        "team_id": 121,
+        "avg_wpa": 270.0405405405407
+    },
+    {
+        "team": "Oakland Athletics",
+        "team_id": 133,
+        "avg_wpa": 262.9342105263159
+    },
+    {
+        "team": "Pittsburgh Pirates",
+        "team_id": 134,
+        "avg_wpa": 258.5853333333334
+    },
+    {
+        "team": "San Diego Padres",
+        "team_id": 135,
+        "avg_wpa": 261.9657534246575
+    },
+    {
+        "team": "Seattle Mariners",
+        "team_id": 136,
+        "avg_wpa": 284.3479452054795
+    },
+    {
+        "team": "San Francisco Giants",
+        "team_id": 137,
+        "avg_wpa": 273.5310810810812
+    },
+    {
+        "team": "St. Louis Cardinals",
+        "team_id": 138,
+        "avg_wpa": 266.19729729729727
+    },
+    {
+        "team": "Tampa Bay Rays",
+        "team_id": 139,
+        "avg_wpa": 262.4283783783784
+    },
+    {
+        "team": "Texas Rangers",
+        "team_id": 140,
+        "avg_wpa": 234.70675675675665
+    },
+    {
+        "team": "Toronto Blue Jays",
+        "team_id": 141,
+        "avg_wpa": 261.35890410958905
+    },
+    {
+        "team": "Minnesota Twins",
+        "team_id": 142,
+        "avg_wpa": 250.131506849315
+    },
+    {
+        "team": "Philadelphia Phillies",
+        "team_id": 143,
+        "avg_wpa": 257.9459459459461
+    },
+    {
+        "team": "Atlanta Braves",
+        "team_id": 144,
+        "avg_wpa": 268.7458333333333
+    },
+    {
+        "team": "Chicago White Sox",
+        "team_id": 145,
+        "avg_wpa": 255.49864864864847
+    },
+    {
+        "team": "Miami Marlins",
+        "team_id": 146,
+        "avg_wpa": 269.35
+    },
+    {
+        "team": "New York Yankees",
+        "team_id": 147,
+        "avg_wpa": 238.83150684931502
+    },
+    {
+        "team": "Milwaukee Brewers",
+        "team_id": 158,
+        "avg_wpa": 243.27837837837845
+    }
+]

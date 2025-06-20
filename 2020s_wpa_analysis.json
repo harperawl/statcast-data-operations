@@ -1,0 +1,182 @@
+{
+    "Arizona Diamondbacks": {
+        "team_id": 109,
+        "games_played": 781,
+        "total_wpa": 199886.5,
+        "average_wpa_per_game": 255.93662
+    },
+    "Colorado Rockies": {
+        "team_id": 115,
+        "games_played": 781,
+        "total_wpa": 201685.6,
+        "average_wpa_per_game": 258.2402
+    },
+    "Los Angeles Dodgers": {
+        "team_id": 119,
+        "games_played": 783,
+        "total_wpa": 197654.8,
+        "average_wpa_per_game": 252.43269
+    },
+    "Houston Astros": {
+        "team_id": 117,
+        "games_played": 781,
+        "total_wpa": 195261.6,
+        "average_wpa_per_game": 250.01485
+    },
+    "San Diego Padres": {
+        "team_id": 135,
+        "games_played": 781,
+        "total_wpa": 193945.0,
+        "average_wpa_per_game": 248.32907
+    },
+    "Oakland Athletics": {
+        "team_id": 133,
+        "games_played": 784,
+        "total_wpa": 198501.8,
+        "average_wpa_per_game": 253.19107
+    },
+    "San Francisco Giants": {
+        "team_id": 137,
+        "games_played": 782,
+        "total_wpa": 201995.1,
+        "average_wpa_per_game": 258.30575
+    },
+    "Seattle Mariners": {
+        "team_id": 136,
+        "games_played": 781,
+        "total_wpa": 200800.0,
+        "average_wpa_per_game": 257.10627
+    },
+    "Texas Rangers": {
+        "team_id": 140,
+        "games_played": 782,
+        "total_wpa": 193150.2,
+        "average_wpa_per_game": 246.99514
+    },
+    "Atlanta Braves": {
+        "team_id": 144,
+        "games_played": 779,
+        "total_wpa": 196333.2,
+        "average_wpa_per_game": 252.03235
+    },
+    "Tampa Bay Rays": {
+        "team_id": 139,
+        "games_played": 782,
+        "total_wpa": 200870.6,
+        "average_wpa_per_game": 256.86777
+    },
+    "Philadelphia Phillies": {
+        "team_id": 143,
+        "games_played": 782,
+        "total_wpa": 200499.9,
+        "average_wpa_per_game": 256.39373
+    },
+    "New York Mets": {
+        "team_id": 121,
+        "games_played": 782,
+        "total_wpa": 198718.6,
+        "average_wpa_per_game": 254.11586
+    },
+    "Toronto Blue Jays": {
+        "team_id": 141,
+        "games_played": 781,
+        "total_wpa": 197733.4,
+        "average_wpa_per_game": 253.17977
+    },
+    "Washington Nationals": {
+        "team_id": 120,
+        "games_played": 782,
+        "total_wpa": 197315.2,
+        "average_wpa_per_game": 252.32123
+    },
+    "New York Yankees": {
+        "team_id": 147,
+        "games_played": 781,
+        "total_wpa": 197523.1,
+        "average_wpa_per_game": 252.9105
+    },
+    "Miami Marlins": {
+        "team_id": 146,
+        "games_played": 780,
+        "total_wpa": 202641.6,
+        "average_wpa_per_game": 259.79692
+    },
+    "Baltimore Orioles": {
+        "team_id": 110,
+        "games_played": 781,
+        "total_wpa": 195110.4,
+        "average_wpa_per_game": 249.82125
+    },
+    "Boston Red Sox": {
+        "team_id": 111,
+        "games_played": 784,
+        "total_wpa": 204220.9,
+        "average_wpa_per_game": 260.48584
+    },
+    "Los Angeles Angels": {
+        "team_id": 108,
+        "games_played": 781,
+        "total_wpa": 198972.6,
+        "average_wpa_per_game": 254.76645
+    },
+    "St. Louis Cardinals": {
+        "team_id": 138,
+        "games_played": 780,
+        "total_wpa": 198453.5,
+        "average_wpa_per_game": 254.42756
+    },
+    "Cincinnati Reds": {
+        "team_id": 113,
+        "games_played": 782,
+        "total_wpa": 195728.0,
+        "average_wpa_per_game": 250.29156
+    },
+    "Milwaukee Brewers": {
+        "team_id": 158,
+        "games_played": 782,
+        "total_wpa": 197840.3,
+        "average_wpa_per_game": 252.99271
+    },
+    "Kansas City Royals": {
+        "team_id": 118,
+        "games_played": 782,
+        "total_wpa": 193411.5,
+        "average_wpa_per_game": 247.32928
+    },
+    "Cleveland Guardians": {
+        "team_id": 114,
+        "games_played": 779,
+        "total_wpa": 198445.7,
+        "average_wpa_per_game": 254.74416
+    },
+    "Minnesota Twins": {
+        "team_id": 142,
+        "games_played": 781,
+        "total_wpa": 198593.8,
+        "average_wpa_per_game": 254.28143
+    },
+    "Pittsburgh Pirates": {
+        "team_id": 134,
+        "games_played": 783,
+        "total_wpa": 200407.9,
+        "average_wpa_per_game": 255.94879
+    },
+    "Detroit Tigers": {
+        "team_id": 116,
+        "games_played": 781,
+        "total_wpa": 193830.8,
+        "average_wpa_per_game": 248.18284
+    },
+    "Chicago Cubs": {
+        "team_id": 112,
+        "games_played": 781,
+        "total_wpa": 197386.8,
+        "average_wpa_per_game": 252.73598
+    },
+    "Chicago White Sox": {
+        "team_id": 145,
+        "games_played": 782,
+        "total_wpa": 196933.2,
+        "average_wpa_per_game": 251.83274
+    }
+}
